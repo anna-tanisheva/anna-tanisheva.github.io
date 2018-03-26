@@ -1,6 +1,6 @@
 'use strict';
 
-//Hello World!!!
+
 
 //set height of container
 // var deviceHeight = screen.height;
