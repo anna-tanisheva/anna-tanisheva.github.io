@@ -1,8 +1,5 @@
 'use strict';
 
-//hello      W!!!!
-
-
 //set height of container
 // var deviceHeight = screen.height;
 var deviceHeight = $(window).innerHeight();
